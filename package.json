@@ -1,0 +1,17 @@
+{
+  "name": "file-plus",
+  "version": "0.0.2",
+  "description": "增强文件操作",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tick",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  }
+}
