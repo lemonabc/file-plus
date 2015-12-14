@@ -9,10 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "tick",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "none"
-  }
+  "repository": "lemonabc/file-plus",
+  "email" : "ilemonabc@qq.com",
+  "author": "lemonabc <ilemonabc@qq.com>",
+  "license": "ISC"
 }
