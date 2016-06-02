@@ -1,6 +1,6 @@
 {
   "name": "file-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "扩展文件操作",
   "main": "index.js",
   "dependencies": {},
